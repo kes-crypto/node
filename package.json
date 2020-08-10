@@ -1,0 +1,19 @@
+{
+  "name": "express-website",
+  "version": "1.0.0",
+  "description": "simple website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dennis kestone",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cool-ascii-faces": "^1.3.4",
+    "express": "*",
+    "jade": "*",
+    "mongoose": "^5.9.20",
+    "nodemailer": "*"
+  }
+}
